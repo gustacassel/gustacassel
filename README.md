@@ -42,5 +42,3 @@ I am a results-oriented developer specializing in the .NET ecosystem, with a dee
 
 * **Architecture:** Pragmatic approach to **Clean Code** and design patterns, prioritizing maintainability without over-engineering.
 * **Infrastructure:** Experienced in server assembly, hardware optimization, and managing diverse virtualized environments.
-
----

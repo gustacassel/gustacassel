@@ -3,7 +3,11 @@
 <h3 align="left" style="color:#BD93F9;">Backend Developer | .NET Specialist | ERP & Infrastructure Expert</h3>
 
 <p align="left">
-I am a results-oriented developer specializing in the .NET ecosystem, with a deep focus on high-performance backend systems and complex industrial integrations. My expertise bridges the gap between <b>3D CAD tools</b>, <b>ERP Management</b>, and <b>Physical IT Infrastructure</b>.
+I am a results-oriented developer specializing in the .NET ecosystem, with a deep focus on high-performance backend systems and complex industrial integrations.
+<br>
+Currently, I am pursuing a <b>Bachelor's Degree in Software Engineering at Instituto Infnet</b>.
+<br>
+My expertise bridges the gap between <b>3D CAD tools</b>, <b>ERP Management</b>, and <b>Physical IT Infrastructure</b>, ensuring high-fidelity data flow across technical and business domains.
 </p>
 
 ---

@@ -18,8 +18,6 @@ My expertise bridges the gap between <b>3D CAD tools</b>, <b>ERP Management</b>,
     <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,postgres,git" />
     <br>
     <img src="https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-    <img src="https://img.shields.io/badge/TOTVS%20Protheus-0054A6?style=for-the-badge&logo=totvs&logoColor=white" />
-    <img src="https://img.shields.io/badge/ADVPL%20%2F%20TL%2B%2B-orange?style=for-the-badge&logo=totvs" />
 </div>
 
 ### ⏳ Currently Exploring
@@ -28,13 +26,15 @@ My expertise bridges the gap between <b>3D CAD tools</b>, <b>ERP Management</b>,
     <img src="https://skillicons.dev/icons?i=html,css,ts,js" />
     <br>
     <img src="https://img.shields.io/badge/blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" />
+    <img src="https://img.shields.io/badge/TOTVS%20Protheus-0054A6?style=for-the-badge&logo=totvs&logoColor=white" />
+    <img src="https://img.shields.io/badge/ADVPL%20%2F%20TL%2B%2B-orange?style=for-the-badge&logo=totvs" />
 </div>
 
 ---
 
 ### 🚀 Specialized Expertise
 
-* **ERP & Business Logic:** Extensive experience with **TOTVS Protheus**, from standard modules to deep customizations using **ADVPL** and **TL++** (Entry Points and Custom Source). I understand the core business processes that drive corporate management.
+* **ERP & Business Logic:** Familiar with **TOTVS Protheus** and its core modules, with a foundational understanding of the business processes that drive corporate management.
 * **High-Performance .NET:** Specialized in optimizing the **CLR**, focusing on efficient **Garbage Collection**, **Multi-threading**, and **Parallelism** to handle data-heavy workloads.
 * **Systems Integration:** Expert at connecting disparate systems, specifically integrating **3D CAD tools** with ERP environments to streamline engineering and manufacturing pipelines.
 * **IT Infrastructure & Cloud:** Hands-on experience with physical hardware dimensioning (from workstations to servers), **Virtualization (VMs)**, and cloud management via **Microsoft Entra ID**, SharePoint, and OneDrive.

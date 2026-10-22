@@ -14,22 +14,58 @@ I'm currently pursuing a <b>Bachelor's Degree in Software Engineering at Institu
 
 ### 🛠️ Tech Stack
 
-<div>
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,html,css,postgres,azure,powershell,git,visualstudio" />
-    <br>
-    <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-    <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" />
-    <img src="https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-    <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge" />
-    <br>
-    <img src="https://img.shields.io/badge/TOTVS%20Protheus-0054A6?style=for-the-badge&logo=totvs&logoColor=white" />
-    <img src="https://img.shields.io/badge/ADVPL%20%2F%20TLPP-orange?style=for-the-badge&logo=totvs" />
-    <img src="https://img.shields.io/badge/Autodesk%20Vault-0696D7?style=for-the-badge&logo=autodesk&logoColor=white" />
-    <img src="https://img.shields.io/badge/Autodesk%20Inventor-E8A33D?style=for-the-badge&logo=autodesk&logoColor=white" />
-    <img src="https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autodesk&logoColor=white" />
-    <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white" />
-</div>
+<table>
+    <tr>
+        <td><b>Languages</b></td>
+        <td>
+            <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+            <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+            <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+            <img src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white" />
+            <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge" />
+        </td>
+    </tr>
+    <tr>
+        <td><b>.NET</b></td>
+        <td>
+            <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+            <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" />
+            <img src="https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+        </td>
+    </tr>
+    <tr>
+        <td><b>Databases</b></td>
+        <td>
+            <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge" />
+            <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge" />
+            <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+        </td>
+    </tr>
+    <tr>
+        <td><b>ERP</b></td>
+        <td>
+            <img src="https://img.shields.io/badge/TOTVS%20Protheus-0054A6?style=for-the-badge&logo=totvs&logoColor=white" />
+            <img src="https://img.shields.io/badge/ADVPL%20%2F%20TLPP-orange?style=for-the-badge&logo=totvs" />
+        </td>
+    </tr>
+    <tr>
+        <td><b>CAD & PDM</b></td>
+        <td>
+            <img src="https://img.shields.io/badge/Autodesk%20Vault-0696D7?style=for-the-badge&logo=autodesk&logoColor=white" />
+            <img src="https://img.shields.io/badge/Autodesk%20Inventor-E8A33D?style=for-the-badge&logo=autodesk&logoColor=white" />
+            <img src="https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autodesk&logoColor=white" />
+        </td>
+    </tr>
+    <tr>
+        <td><b>Cloud & Tools</b></td>
+        <td>
+            <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge" />
+            <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+            <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge" />
+            <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white" />
+        </td>
+    </tr>
+</table>
 
 ---
 

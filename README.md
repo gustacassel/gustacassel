@@ -28,6 +28,7 @@ I'm currently pursuing a <b>Bachelor's Degree in Software Engineering at Institu
     <img src="https://img.shields.io/badge/Autodesk%20Vault-0696D7?style=for-the-badge&logo=autodesk&logoColor=white" />
     <img src="https://img.shields.io/badge/Autodesk%20Inventor-E8A33D?style=for-the-badge&logo=autodesk&logoColor=white" />
     <img src="https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autodesk&logoColor=white" />
+    <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white" />
 </div>
 
 ---
@@ -40,6 +41,7 @@ I'm currently pursuing a <b>Bachelor's Degree in Software Engineering at Institu
 * **Performance:** Attention to memory allocation, GC behavior, multithreading and parallelism in data-heavy workloads.
 * **IT Infrastructure & Networking:** Structured cabling, VLANs, video surveillance systems, hardware sizing and assembly from workstations to servers, and virtualization.
 * **Microsoft 365 & Access Management:** Entra ID, SharePoint and OneDrive, with permission management, access control and governance across the company.
+* **AI-Assisted Development:** I build internal plugins and skills for **Claude Code** that connect it to the company's systems, such as read-only queries on the Protheus database, Microsoft 365 automation, and document generation following company standards.
 * **Architecture:** A pragmatic approach to Clean Code and design patterns, prioritizing maintainability without over-engineering.
 
 ### ⏳ Currently Exploring
